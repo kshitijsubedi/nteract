@@ -8,6 +8,7 @@
     { "path": "../../packages/core" },
     { "path": "../../packages/types" },
     { "path": "../../packages/editor" },
+    { "path": "../../packages/fs-observable" },
     { "path": "../../packages/notebook-app-component" },
     { "path": "../../packages/presentational-components" },
     { "path": "../../packages/jupyter-widgets" },
@@ -16,7 +17,6 @@
     { "path": "../../packages/transform-model-debug" },
     { "path": "../../packages/transform-plotly" },
     { "path": "../../packages/transform-vdom" },
-    { "path": "../../packages/transform-vega" },
-    { "path": "../../packages/outputs" }
+    { "path": "../../packages/transform-vega" }
   ]
 }
